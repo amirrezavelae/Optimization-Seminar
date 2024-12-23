@@ -1,0 +1,24 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Key Problem Setup}{5}{0}{2}
+\beamer@sectionintoc {3}{Online Optimization Problem}{7}{0}{3}
+\beamer@sectionintoc {4}{Offline Optimization Problem}{9}{0}{4}
+\beamer@sectionintoc {5}{Bandit Version of the Problem}{11}{0}{5}
+\beamer@sectionintoc {6}{Adversaries: Oblivious vs. Adaptive}{13}{0}{6}
+\beamer@sectionintoc {7}{Regret in the Context of Online Optimization}{15}{0}{7}
+\beamer@sectionintoc {8}{Kalai-Vempala Algorithm}{17}{0}{8}
+\beamer@sectionintoc {9}{Adaptive Adversary and Bandit Setting}{19}{0}{9}
+\beamer@sectionintoc {10}{Main Algorithm: BGA}{21}{0}{10}
+\beamer@sectionintoc {11}{BGA: Pseudocode Overview}{23}{0}{11}
+\beamer@sectionintoc {12}{The Role of Basis \( B \) in BGA}{24}{0}{12}
+\beamer@sectionintoc {13}{Exploration vs. Exploitation}{26}{0}{13}
+\beamer@sectionintoc {14}{Estimate Update and Matrix Inversion}{28}{0}{14}
+\beamer@sectionintoc {15}{Mathematical Setup for Analysis}{29}{0}{15}
+\beamer@sectionintoc {16}{Bounds on Regret}{31}{0}{16}
+\beamer@sectionintoc {17}{High Probability Bounds}{33}{0}{17}
+\beamer@sectionintoc {18}{Exploration of Basis and Estimation}{35}{0}{18}
+\beamer@sectionintoc {19}{Performance Bound: Expected Regret}{37}{0}{19}
+\beamer@sectionintoc {20}{Summary of Theoretical Results}{38}{0}{20}
+\beamer@sectionintoc {21}{Conclusions}{40}{0}{21}
+\beamer@sectionintoc {22}{Open Problems}{42}{0}{22}
+\beamer@sectionintoc {23}{References}{44}{0}{23}
+\beamer@sectionintoc {24}{Acknowledgments}{45}{0}{24}
